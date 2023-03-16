@@ -5,7 +5,7 @@
 > 
 > ⚠️ En POO également, vous devez initialiser le dictionnaire soit dans le constructeur soit avec un setter après instanciation de la classe.
 
-## Lancez le script
+## Lancer le script
 
 ```bash
 python main.py
